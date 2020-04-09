@@ -1,2 +1,2 @@
 # 3D-lottery-tool
-A tool to get 7/50 or 6/49 random numbers
+A tool to get 7/50, 6/49 or 6/45 random numbers in a fun way
